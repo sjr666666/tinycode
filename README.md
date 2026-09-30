@@ -4,7 +4,6 @@
 
 **A minimal but complete Coding Agent Harness — the readable way to learn how coding agents actually work.**
 
-[![CI](https://github.com/helsome/tinycode/actions/workflows/ci.yml/badge.svg)](https://github.com/helsome/tinycode/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%E2%89%A522.19-brightgreen)](./package.json)
 [![Tests](https://img.shields.io/badge/tests-115%20passing-success)](./tests)
