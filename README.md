@@ -83,7 +83,7 @@ offline against a scripted model.
 ## Quick start
 
 ```bash
-git clone https://github.com/helsome/tinycode.git
+git clone https://github.com/sjr666666/tinycode.git
 cd tinycode && npm install && npm run build
 ```
 

@@ -18,7 +18,7 @@ Sources: [package.json](package.json#L7-L9), [.github/workflows/ci.yml](.github/
 ## 安装：一条命令，两个已知坑
 
 ```bash
-git clone https://github.com/helsome/tinycode.git
+git clone https://github.com/sjr666666/tinycode.git
 cd tinycode
 npm install
 ```
